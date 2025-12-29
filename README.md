@@ -21,6 +21,8 @@ With ProtoFab, I traded convenience for control and real understanding. Every jo
 ## PCB First, Everything Else Second  
 Most hobby CNCs are built around wood first, PCB milling second. ProtoFab flips that. Z-axis consistency, probing accuracy, and flatness aren’t upgrades—they’re the whole point. Conductive probing is baked right in, so leveling a PCB is routine, not a weird workaround.
 
+<img width="1885" height="1033" alt="Screenshot 2025-12-28 005725" src="https://github.com/user-attachments/assets/77af9e4e-6ca2-4e32-a998-aad0a240b96f" />
+
 
 
 ## Development Stages
