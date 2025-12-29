@@ -1,5 +1,3 @@
-A little tip: Its alot easier to use the links with excel, just download this page and import it to google sheets.
-
 Name,Price(MXN) ,Price(USD),Link,Purpose,Qty,Price*Qty
 "MGN12C, (500mm)",$393.90,$22.06,https://es.aliexpress.com/item/4000762343261.html?spm=a2g0o.productlist.main.2.59f278d7CoboAm&algo_pvid=ba98c205-64cc-484f-96e4-49f4e553cc05&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4000762343261%7C_p_origin_prod%3A,X axis rails,2,$44.12
 8mm linear rod(500mm)2set,$174.28,$9.76,"https://es.aliexpress.com/item/1005010479254458.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.7d6byfy3yfy3Yn&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=bfb58e6d-a375-4fe7-9ed7-3317aac5d239&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:bfb58e6d-a375-4fe7-9ed7-3317aac5d239,tpp_buckets:668%232846%238111%231996&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005010479254458%7C_p_origin_prod%3A",Y axis roda=s,1,$9.76
@@ -22,3 +20,4 @@ Jst connector kit,$172.39,$9.65,https://es.aliexpress.com/item/1005010486077547.
 15180,$453.63,$25.40,https://es.aliexpress.com/item/1005007601829278.html?spm=a2g0o.productlist.main.2.3723OTurOTurLz&algo_pvid=50c300e7-4847-499c-a679-223202d89113&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007601829278%7C_p_origin_prod%3A,Bed for CNC,1,$25.40
 
 Nema 17,$173.77,$9.73,https://es.aliexpress.com/item/1005008708427234.html?spm=a2g0o.productlist.main.14.3b172d4a9wsZUw&algo_pvid=3603bd84-1d3a-4227-9e98-62664d8414f8&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008708427234%7C_p_origin_prod%3A,Motors,3,$29.19
+
