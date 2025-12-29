@@ -1,0 +1,28 @@
+Name,Price(MXN) ,Price(USD),Link,Purpose,Qty,Price*Qty
+"MGN12C, (500mm)",$393.90,$22.06,MGN12,X axis rails,2,$44.12
+8mm linear rod(500mm)2set,$174.28,$9.76,8mm rod,Y axis roda=s,1,$9.76
+Leadscrew T8(500mm),$139.33,$7.80,Leadscrew,driver for motors,1,$7.80
+Leadscrew Couplers,$34.00,$1.90,Coupling,Holds leadscrew,2,$3.81
+2060 aluminum extrusion(30cm),$241.90,$13.55,Aluminum extrusion,Support y axis,1,$13.55
+500W motor,$200.90,$11.25,500W motor,Allows milling,1,$11.25
+10W laser,$846.30,$47.39,10W laser,Allows etching,1,$47.39
+"V slot nut 20 series, 50 pcs",$66.90,$3.75,V slot nut,Nuts for extrusions,1,$3.75
+"M4, 6mm, screws, 20pcs",$18.19,$1.02,Screws,Screws,3,$3.06
+MKS DLC32+Screen,$580.65,$32.52,MKS,Computing module,1,$32.52
+"Led strips white, 1m, 24V",$62.08,$3.48,LEDs,Allows visibility,1,$3.48
+End stop,$140.90,$7.89,End Stop,Controls stops,1,$7.89
+2020aluminum(400mm),$68.89,$3.86,2020,Stability control,1,$3.86
+T8 Leadscrew nut(6pcs),$98.56,$5.52,Leadscrew nut,Movement nut,1,$5.52
+MGN12C cart,$96.34,$5.40,Cart,for Y/Z rails,2,$10.79
+SD card 32gb,$66.51,$3.72,sd card,To load grbl files,1,$3.72
+Jst connector kit,$172.39,$9.65,JST,connect mods,1,$9.65
+2040 extrusion(400mm),$161.13,$9.02,2040,Frame,2,$18.05
+15180,$453.63,$25.40,15180,Bed for CNC,1,$25.40
+Nema 17,$173.77,$9.73,Nema17,Motors,3,$29.19
+,,,,,,
+Tools(excluding materials/attachments,,Already owned,Already bought,,,
+Soldering Iron,,,,,,
+Angle Grinder,,,,,,
+Screwdriver,,,,,,
+Laptop or something to upload code,,,,,,
+3D printer,,,,,,
