@@ -23,6 +23,7 @@ With ProtoFab, I traded convenience for control. Every joint, every rail, and ev
 ## Software  
 The software is runned by a MKS DLC32 MAX, running GRBL. Instead of just running on a generic interface, I’m tweaking the firmware to fit real CNC workflows. That means removing pointless 3D printer features and adding tools for probing, leveling, and tool changes the way this machine actually needs. Software has to meet the same criteria as as my hardware simple, clear, and easy to adapt.
 
+<img width="500" height="205" alt="image" src="https://github.com/user-attachments/assets/56a57ec5-9ba2-4cad-83e8-0bdccb378238" />
 ## How everything ties togueter.
 I ensured everything worked togueter, like clockwork, the frame should be stiff to reduce innacuracies, the code should be easy to use, the hardware should be clean and easy to handle, and the design should be clean and eye pleasing. I believe that is the essence of what I have to work with, with this CNCs no longer have to be this extremely expensive, closed minded, machin.
 
